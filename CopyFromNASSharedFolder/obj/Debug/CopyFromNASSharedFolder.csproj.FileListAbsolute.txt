@@ -1,0 +1,9 @@
+E:\VS2021\CopyFromNASSharedFolder\bin\Debug\CopyFromNASSharedFolder.exe.config
+E:\VS2021\CopyFromNASSharedFolder\bin\Debug\CopyFromNASSharedFolder.exe
+E:\VS2021\CopyFromNASSharedFolder\bin\Debug\CopyFromNASSharedFolder.pdb
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.ProjectInstaller.resources
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.Service1.resources
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.csproj.GenerateResource.cache
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.csproj.CoreCompileInputs.cache
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.exe
+E:\VS2021\CopyFromNASSharedFolder\obj\Debug\CopyFromNASSharedFolder.pdb

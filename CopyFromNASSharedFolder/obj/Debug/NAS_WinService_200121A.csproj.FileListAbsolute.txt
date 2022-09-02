@@ -1,0 +1,9 @@
+G:\VS2021\NAS_WinService_200121A\bin\Debug\NAS_WinService_200121A.exe.config
+G:\VS2021\NAS_WinService_200121A\bin\Debug\NAS_WinService_200121A.exe
+G:\VS2021\NAS_WinService_200121A\bin\Debug\NAS_WinService_200121A.pdb
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.ProjectInstaller.resources
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.Service1.resources
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.csproj.GenerateResource.cache
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.csproj.CoreCompileInputs.cache
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.exe
+G:\VS2021\NAS_WinService_200121A\obj\Debug\NAS_WinService_200121A.pdb

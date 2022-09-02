@@ -1,0 +1,4 @@
+D:\VS2019\SyslogCollector\obj\Debug\SyslogCollector.csprojAssemblyReference.cache
+D:\VS2019\SyslogCollector\obj\Debug\SyslogCollector.ProjectInstaller.resources
+D:\VS2019\SyslogCollector\obj\Debug\SyslogCollector.csproj.GenerateResource.cache
+D:\VS2019\SyslogCollector\obj\Debug\SyslogCollector.csproj.CoreCompileInputs.cache
